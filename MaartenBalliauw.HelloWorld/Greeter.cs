@@ -1,4 +1,4 @@
-﻿namespace MaartenBalliauw.HelloWorld
+namespace MaartenBalliauw.HelloWorld
 {
     public class Greeter
     {
