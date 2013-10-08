@@ -1,6 +1,6 @@
 namespace MaartenBalliauw.HelloWorld
 {
-    public class Greeter
+    pxublic class Greeter
     {
         public string Greet(string name)
         {
